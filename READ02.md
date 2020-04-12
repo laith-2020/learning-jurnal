@@ -38,4 +38,4 @@ Operating systems implement a command-line interface in a shell for interactive 
 * file.txt - a plain text file.
 * file.png, file.gif, file.jpg - an image.
 
-![recources](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
+[recources](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
